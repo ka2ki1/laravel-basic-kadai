@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  margin: 0;
+}
+
+header {
+  margin-bottom: 20px;
+  background-color: rgb(244, 79, 79);
+  text-align: center;
+}
+
+main {
+  margin: 10px;
+}
+
+#parent {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contents {
+  border: solid 3px rgb(238, 204, 204);
+}
